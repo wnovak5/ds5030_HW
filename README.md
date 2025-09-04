@@ -1,3 +1,3 @@
-# practice1
+# Assignment 1
 
 hello readme!
